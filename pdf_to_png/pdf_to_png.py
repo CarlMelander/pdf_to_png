@@ -22,5 +22,5 @@ def convert_pdf_to_png(pdf_path, output_folder):
     pdf.close()
 
 pdf_file_path = 'path/to/source.pdf'  
-output_directory = 'path/to/output_folder'      
+output_directory = 'path/to/destination'      
 convert_pdf_to_png(pdf_file_path, output_directory)
